@@ -1,7 +1,9 @@
 # Directories
 /.wordpress-org export-ignore
 /.github export-ignore
-/vendor export-ignore # Currently only used for linting.
+
+# Currently only used for linting.
+/vendor export-ignore
 
 # Files
 /.gitattributes export-ignore
